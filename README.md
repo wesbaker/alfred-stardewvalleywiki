@@ -10,7 +10,7 @@ Search Stardew Valley Wiki from the comfort of Alfred.
 npm install --global alfred-stardewvalleywiki
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 14+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 ## Usage
 
