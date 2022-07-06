@@ -1,4 +1,4 @@
-const alfy = require("alfy");
+import alfy from "alfy";
 
 alfy
   .fetch("https://stardewvalleywiki.com/mediawiki/api.php", {
