@@ -2,7 +2,7 @@ const alfy = require("alfy");
 
 alfy
   .fetch("https://stardewvalleywiki.com/mediawiki/api.php", {
-    query: {
+    searchParams: {
       action: "opensearch",
       format: "json",
       search: alfy.input,
